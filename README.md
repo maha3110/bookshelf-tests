@@ -27,7 +27,7 @@ To get started with running the tests in this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/bookshelf-junit-testing.git
+   git clone https://github.com/yourusername/bookshelf-tests.git
 2. Build the project using Maven:
 
    ```shell
